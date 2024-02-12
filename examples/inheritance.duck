@@ -1,0 +1,14 @@
+class Shape {
+  draw() {
+    print "Iam from the Shape Class.";
+  }
+}
+
+class BaseShape < Shape {
+  draw() {
+    super.draw(); //calls the draw() of the base class
+    print "Iam from the base class.";
+  }
+}
+
+BaseShape().draw();

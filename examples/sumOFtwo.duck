@@ -1,0 +1,10 @@
+fun sumOfTwo(num1 , num2) {
+
+	var sum = num1 + num2;
+	return sum;
+
+}
+
+var result = sumOfTwo(6 , 6);
+
+print(result);

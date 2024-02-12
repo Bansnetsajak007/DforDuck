@@ -1,0 +1,5 @@
+// Demonstrating string literal
+
+var name = "AXle Rose";
+
+print(name);

@@ -1,0 +1,6 @@
+//will this work who knows lets try
+
+var a = print("Enter any number")
+scanf("%d", a);
+
+print(a);
