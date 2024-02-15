@@ -15,7 +15,7 @@ DforDuck was developed as a hands-on project to deepen comprehension of interpre
 ## Key Resources
 
 - [Bob Nystrom](https://stuffwithstuff.com/)'s book, ["Crafting Interpreters"](https://craftinginterpreters.com/): Provides invaluable guidance on creating programming language interpreters and compilers.
-- [DforDuck GitHub Repository](https://github.com/your_username/DforDuck): Access the source code and contribute to the project.
+- [DforDuck GitHub Repository](https://github.com/Bansnetsajak007/DforDuck): Access the source code and contribute to the project.
 
 ## Getting Started
 
